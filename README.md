@@ -29,6 +29,10 @@ nargo init
 cd ..
 ```
 
+5.フロントエンドの初期化
+```
+npx create-react-app frontend --template typescript
+```
 
 
 
