@@ -11,9 +11,23 @@ source /home/******/.bashrc
 noirup
 ```
 
+2.フロントエンド開発ツール
+```
+npm install -g create-react-app
+```
 
+3.メインプロジェクトディレクトリの作成
+```
+mkdir privacy-nft-proof && cd privacy-nft-proof
+```
 
-
+4.Noirサーキットプロジェクトの初期化
+```
+mkdir -p circuits
+cd circuits
+nargo init
+cd ..
+```
 
 
 
